@@ -68,6 +68,8 @@
 .header__button:hover{
     transition: 1s;
     transform: scale(1.1);
+    background-color: #058AFF;
+    color: aliceblue;
 
 }
 .header__link {
