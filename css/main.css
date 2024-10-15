@@ -60,10 +60,11 @@
     margin-top: 15px;
     margin-bottom: 15px;
     padding: 10px 30px;
-    border:  1px solid black;
+    border:  1px solid rgb(14, 103, 226);
     background-color: transparent;
     border-radius: 5px;
     font-size: 20px;
+    color: #058AFF;
 }
 .header__button:hover{
     transition: 1s;
