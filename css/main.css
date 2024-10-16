@@ -160,6 +160,12 @@ i{
     font-size: 18px;
     background: transparent;
 }
+.hero__button:hover{
+    background: blue;
+    color: #ffff;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
 .wrapper__container{
     max-width: 1200px;
     margin: 0 auto;
