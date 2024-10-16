@@ -212,19 +212,20 @@ i{
 }
 .wrapper__button{
     padding: 10px 20px;
-    border: 1px solid red;
+    border: 1px solid rgb(11, 52, 238);
     border-radius: 5px;
     background: transparent;
-    color: brown;
+    color: rgb(19, 37, 236);
     margin-top: 20px;
+    font-size: 20px;
 }
 .wrapper__button:hover{
-    padding: 15px 25px;
-    border: none;
-    color: aliceblue;
     background: blue;
-    border-radius: 7px;
+    color: #ffff;
+    transition: 0.5s;
+    transform: scale(1.1);
 }
+
 
 .hover__container{
     max-width: 1200px;
