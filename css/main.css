@@ -115,6 +115,7 @@
     padding: 20px;
 }
 .hero-list-a{
+    gap: 20px;
     display:flex;
 }
 .hero__title{
@@ -151,16 +152,12 @@ i{
     color: blue;
 }
 .hero__button{
+    margin-top: 20px;
     border-radius: 5px;
     padding: 14px 20px;
-    border: 1px solid black;
-    background: transparent;
-}
-.hero__button-a{
-    margin-top: 2px;
-    border-radius: 5px;
-    padding: 13px 20px;
-    border: 1px solid black;
+    border: 1px solid blue;
+    color: #058AFF;
+    font-size: 18px;
     background: transparent;
 }
 .wrapper__container{
